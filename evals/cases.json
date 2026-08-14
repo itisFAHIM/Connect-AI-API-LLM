@@ -1,0 +1,10 @@
+[
+  { "id": 1, "input": "I cannot access my invoices for tax filing.", "expected_category": "billing" },
+  { "id": 2, "input": "The app crashes when clicking the exported CSV button.", "expected_category": "bug" },
+  { "id": 3, "input": "Please add support for Google OAuth login.", "expected_category": "feature" },
+  { "id": 4, "input": "Hello, hope you have a great day!", "expected_category": "other" },
+  { "id": 5, "input": "Why was my credit card charged $29 yesterday?", "expected_category": "billing" },
+  { "id": 6, "input": "Getting 500 internal server errors on the webhook endpoint.", "expected_category": "bug" },
+  { "id": 7, "input": "Can we get custom color themes for the portal?", "expected_category": "feature" },
+  { "id": 8, "input": "asdfghjkl 123456", "expected_category": "other" }
+]
